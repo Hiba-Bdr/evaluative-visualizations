@@ -1,8 +1,8 @@
 from evaluative_plot import plot_comparison_bars
 
 experiment_labels = ['Method', 'Method B', 'Method C']
-primary = [0.62, 0.59, 0.58]  # e.g., F1 scores or CTR
-secondary = [1.2e-8, 3.6e-7, 9.1e-7]  # e.g., diversity volume or entropy
+primary = [0.62, 0.59, 0.58]  
+secondary = [1.2e-8, 3.6e-7, 9.1e-7]  
 
 annotations = {
     1: '+5.00% over A',
